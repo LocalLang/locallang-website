@@ -7,7 +7,7 @@ export default class App extends React.Component {
             <React.Fragment>
                 <main>
                     <h1 className="title">LocalLang</h1>
-                    <p className="pera">A simple programming language for students.</p>
+                    <p className="pera">A Free learning resource platform, for everyone.</p>
                     <p className="come" style={{fontWeight: 300}}>Coming soon...</p>
                 </main>
             </React.Fragment>
